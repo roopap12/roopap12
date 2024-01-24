@@ -1,4 +1,4 @@
-- 👋 # Hey there! 👋 👩🏻‍💻
+- Hey there! 👋 👩🏻‍💻
 
 - Full Stack Sorceress of Code 🔮, weaving secure and powerful spells in the realm of Cyber Security and Backend Development. Let's turn lines of code into digital enchantments! ✨
 - # 👀 Interests
