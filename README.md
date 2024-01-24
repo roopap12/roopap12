@@ -26,6 +26,14 @@ Open to meaningful collaborations on innovative projects, particularly those rel
 - Cyber Security Initiatives
 - Backend Solutions
 
+# 🏆 Achievement Certificates
+
+1. [Cyber Security Certificate](Certificates/Cyber%20Security%20Certificate%20Datacom.pdf)
+2. [Coursera Cybersecurity Foundation Course Certificate](Certificates/Coursera%20Cybersecurity%20Foundation%20Course%20Certificate.pdf)
+3. [Software Development Job Simulation Certificate of Completion](Certificates/Software%20Development%20Job%20Simulation%20Certificate%20of%20Completion.pdf)
+
+Feel free to click on the links to view the certificates!
+
 # 📫 Contact
 Let's connect and build something great together! Reach out to me at (mailto:patelroopa148@gmail.com).
 
