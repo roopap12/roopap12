@@ -1,55 +1,78 @@
-- Hey there! 👋 👩🏻‍💻
+# 👋 Hi there! I'm Roopa Patel
 
-- Full Stack Sorceress of Code 🔮, weaving secure and powerful spells in the realm of Cyber Security and Backend Development. Let's turn lines of code into digital enchantments! ✨
-- # 👀 Interests
-- Full Stack Software Development
-- Cyber Security
-- Backend Development
+🎯 Junior RPA Automation Developer | Cybersecurity Analyst | Backend Developer  
+🎓 Certified in UiPath RPA & Google Cybersecurity | Business-Tech Bridge Builder  
+📍 Auckland, New Zealand | 🌐 [roopa.co](https://roopa.co)
 
-# 🌱 Currently Learning
-Staying at the forefront of technology, continuously expanding expertise in:
+---
 
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Node.js
-- MongoDB
-- Various APIs
-- GitHub
-- Python (AI - Artificial Intelligence)
+## 🚀 About Me
 
-# 💞️ Collaboration Opportunities
-Open to meaningful collaborations on innovative projects, particularly those related to:
+I’m an enthusiastic tech professional with a strong background in business and a focused transition into technology.  
+My passion lies in crafting secure, scalable, and efficient digital solutions through:
 
-- Web Application Development
-- Cyber Security Initiatives
-- Backend Solutions
+- 🤖 RPA Automation (UiPath, Power Automate)
+- 🛡 Cybersecurity Fundamentals (Risk Assessment, IDS/IPS, Wireshark)
+- 🧠 Backend Development (Node.js, Express, Python, SQL, MongoDB)
 
-# 🏆 Achievement Certificates
+I recently worked on:
+- 🛡 AI-Driven DDoS Detection System (in progress)  
+- 🤖 Automated Retail Bot (RPA-based inventory audit)  
+- 🧘 Meditation App with AI-powered chatbot  
+- 🛍 Secure Kiwi E-Commerce Demo Site
 
-1. [Cyber Security Certificate](Certificates/Cyber%20Security%20Certificate%20Datacom.pdf)
-2. [Coursera Cybersecurity Foundation Course Certificate](Certificates/Coursera%20Cybersecurity%20Foundation%20Course%20Certificate.pdf)
-3. [Software Development Job Simulation Certificate of Completion](Certificates/Software%20Development%20Job%20Simulation%20Certificate%20of%20Completion.pdf)
+---
 
-Feel free to click on the links to view the certificates!
+## 🌱 Currently Expanding My Toolkit
 
-# 📫 Contact
-Let's connect and build something great together! Reach out to me at (mailto:patelroopa148@gmail.com).
+Learning and sharpening skills in:
+- UiPath Studio & Orchestrator
+- Python & FastAPI
+- React.js & Node.js
+- MongoDB & PostgreSQL
+- Docker, GitHub Workflows, Firebase Hosting
 
-# 😄 Pronouns
-She/Her
+---
 
-# ⚡ Fun Fact
-## Fluent in the Dialects of the Digital Realm:
-- English 🌐
-- Hindi 🇮🇳
-- Gujarati 🇮🇳
+## 🤝 Open to Collaborations In
 
-## Unleashing Coding Magic:
-Embarking on a journey to master the enchanting spells of JavaScript for backend sorcery. With a passion for collecting coding languages like rare artifacts and a commitment to keeping my software spells up-to-date for the ultimate backend wizardry! 🧙✨
+- RPA & Automation Projects  
+- Cybersecurity Tools / Auditing Systems  
+- Backend APIs & Infrastructure Design  
+- Social Impact Tech Projects
+
+---
+
+## 🏆 Certifications & Achievements
+
+1. [UiPath Advanced RPA Developer Certificate](https://roopa.co/certificates/UiPathAcademyAutomationDeveloperProfessionalTrainingCertificate.pdf)
+2. [Google Cybersecurity Professional Certificate](https://roopa.co/certificates/GoogleCybersecurityProfessionalCertificate.pdf)
+3. [Cybersecurity Foundation – Microsoft/Coursera](https://roopa.co/certificates/CyberSecurityCertificate.pdf)
+4. [Cybersecurity Play It Safe – Coursera](https://roopa.co/certificates/CyberSecurityPlayItSafeManageSecurityRisks.pdf)
+5. [Cybersecurity Certificate – Datacom](https://roopa.co/certificates/CyberSecurityCertificateDatacom.pdf)
+6. [Software Development Job Simulation Certificate](https://roopa.co/certificates/SoftwareDevelopmentCertificateofCompletion.pdf)
+
+✅ View all certificates & projects on [my portfolio](https://roopa.co)
+
+---
+
+## 📫 Contact
+
+Let’s build something impactful together:  
+📩 patelroopa148@gmail.com  
+🌐 [LinkedIn – Roopa P](https://linkedin.com/in/roopa-p-13238a29a)  
+💻 [Portfolio Website](https://roopa.co)
+
+---
+
+## 💫 Fun Fact
+
+- I balance my tech life with daily yoga and choreography 🎶  
+- I speak English, Hindi, and Gujarati fluently 🌏  
+- I collect programming languages like rare artifacts 🧙‍♀️
+
+---
 
 <!---
-roopap12/roopap12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+roopap12/roopap12 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
